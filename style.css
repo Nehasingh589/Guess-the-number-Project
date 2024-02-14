@@ -134,3 +134,8 @@ div {
   margin-bottom: 2rem;
 } 
 
+
+/*adding color which lies in js*/
+.lost-message {
+  color: red; /* or any other color you prefer */
+}
